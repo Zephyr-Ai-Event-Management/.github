@@ -1,4 +1,4 @@
-👋 Hey there!
+# 👋 Hey there!
 
 Welcome to Zephyr, the AI-powered event management bot for Discord, exclusively designed for [TruckersMP](https://truckersmp.com/) events. Our goal is to make managing events on this platform easy, stress-free, and enjoyable! 
 
