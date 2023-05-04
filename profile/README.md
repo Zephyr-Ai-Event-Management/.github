@@ -17,5 +17,13 @@ Our key aim is to use AI and other tools to ease the burden on event managers, w
 
 It's important to note that we're still in the early stages of development and may not be ready for servers just yet. However, we're working hard to improve and bring you the best experience possible. 
 
+## Getting started with Zephyr
+To start using Zephyr, simply invite our bot to your Discord server and run the `/setup` command. This command will walk you through the initial setup procedure, where you can customize the bot to suit your server. 
+
+Within the setup process, you'll be asked to define certain variables and will be sent drop-down menus with choices. Customisable variables include:
+- Where event tickets will be opened (which category)
+- Which level of management you want (fully automatic, balanced, or manual)
+
+## Contact us
 If you have any questions, comments, or want to learn more about us, feel free to reach out! We'd love to hear from you. 🤖💬
 
